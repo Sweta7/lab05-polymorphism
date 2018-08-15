@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../prog5.1/Array.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../prog5.1/LinkedList.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../prog5.1/main.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../prog5.1/Queue.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../prog5.1/SortableList.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../prog5.1/Stack.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
